@@ -5,10 +5,12 @@
 	},
 	"main": "server.js",
 	"scripts": {
+		"author": "aram"
 		"start": "node server.js"
 	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	}
+	},
+	
 }
